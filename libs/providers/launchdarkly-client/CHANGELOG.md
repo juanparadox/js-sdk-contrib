@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.1](https://github.com/open-feature/js-sdk-contrib/compare/launchdarkly-client-provider-v0.2.0...launchdarkly-client-provider-v0.2.1) (2023-11-05)
+
+
+### 🐛 Bug Fixes
+
+* packaging issues impacting babel/react ([#596](https://github.com/open-feature/js-sdk-contrib/issues/596)) ([0446eab](https://github.com/open-feature/js-sdk-contrib/commit/0446eab5cf9b45ce7de251b4f5feb8df1d499b9d))
+
+
+### 🧹 Chore
+
+* update nx, run migrations ([#552](https://github.com/open-feature/js-sdk-contrib/issues/552)) ([a88d8fc](https://github.com/open-feature/js-sdk-contrib/commit/a88d8fc097789fd7f56011e6ebb66070f52c6e56))
+
 ## [0.2.0](https://github.com/open-feature/js-sdk-contrib/compare/launchdarkly-client-provider-v0.1.2...launchdarkly-client-provider-v0.2.0) (2023-08-17)
 
 
